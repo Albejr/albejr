@@ -2,4 +2,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albejr" />
 
 #### Follow me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albejr){:target="_blank"}](https://www.linkedin.com/in/albejr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albejr)](https://www.linkedin.com/in/albejr)
